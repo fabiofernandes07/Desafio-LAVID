@@ -1,5 +1,5 @@
 # Desafio-LAVID
-Projeto-Hope
+Projeto-Hope  aplicação feita em react-native e back-end utilizado mongodb e node.js
 
 
 ![login](https://user-images.githubusercontent.com/52057635/74790396-3a01f400-5296-11ea-9df5-44829729502a.gif)
